@@ -7,4 +7,7 @@ user_input = input()
 if(user_input == "left"):
     print("You decide to go left and...")
 elif(user_input == "right"):
-    print("You decide to go right and...")    
+    print("You decide to go right and...")
+
+
+    #yert    
